@@ -1,16 +1,16 @@
-<h1 align="center">Hi there, I'm Aisha 👋</h1>
-<h3 align="center">Math Graduate | Exploring Python — from Basics to FastAPI</h3>
+<h1 align="center">Hi, I'm Aisha Kashif 👋</h1>
+<h3 align="center">MS Maths | Python — from Basics to FastAPI</h3>
 
 ---
 
 ### 🧑‍🎓 About Me
 
 - 🎓 I completed my **MS in Mathematics** from the **University of Karachi**
-- 🐍 Completed **Basics of Python** at **UniAthena**
+- 🐍 Completed **Basics of Python** online course at **UniAthena**
 - 🐍 Completed **Python programming**, from the fundamentals through building APIs with **FastAPI** at **Bano Qabil 5.O**
 - 🏦 Completed an internship at **The Bank of Punjab (BOP)**
 - 📜 Completed a **CIT (Certificate in Information Technology)** course at **VTC, Karachi**
-- 📊 Background in **MATLAB** for mathematical and numerical computing
+- 📊 Background in **MATLAB** for mathematical and numerical computing at **University of Karachi** 
 - 💡 Passionate about combining my math foundation with software development
 
 ---
