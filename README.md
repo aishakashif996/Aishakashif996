@@ -6,7 +6,8 @@
 ### 🧑‍🎓 About Me
 
 - 🎓 I completed my **MS in Mathematics** from the **University of Karachi**
-- 🐍 Currently exploring **Python programming**, from the fundamentals through building APIs with **FastAPI**
+- 🐍 Completed **Basics of Python** at **UniAthena**
+- 🐍 Completed **Python programming**, from the fundamentals through building APIs with **FastAPI** at **Bano Qabil 5.O**
 - 🏦 Completed an internship at **The Bank of Punjab (BOP)**
 - 📜 Completed a **CIT (Certificate in Information Technology)** course at **VTC, Karachi**
 - 📊 Background in **MATLAB** for mathematical and numerical computing
